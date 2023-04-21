@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Full Stack Software Engineer
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on creative and impactful projects
-- 📫 How to reach me by email at chibuike.code@gmail.com
+- 📫 You can always reach by sending an email to chibuike.code@gmail.com
 
 <!---
 chibuike-vm/chibuike-vm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
