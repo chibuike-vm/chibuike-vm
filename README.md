@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chibuike-vm
-- 👀 I’m interested in becoming a Full Stack Software Engineer
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently a Front-End Developer and working towards becoming a Full Stack Developer
 - 💞️ I’m looking to collaborate on creative and impactful projects
 - 📫 You can always reach by sending an email to chibuike.code@gmail.com
 
