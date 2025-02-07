@@ -1,6 +1,6 @@
 # Hi there, I'm Chibuike 👋
 
-Dedicated and innovative Software Engineer with over 3 years of experience in designing, developing, and deploying scalable web applications. Recognized for excellent problem-solving skills, attention to detail, and a commitment to delivering high-quality, user-centric solutions. Adept at working across the full stack to provide end-to-end solutions.
+Dedicated and innovative Software Engineer with over 5 years of experience in designing, developing, and deploying scalable web applications. Recognized for excellent problem-solving skills, attention to detail, and a commitment to delivering high-quality, user-centric solutions. Adept at working across the full stack to provide end-to-end solutions.
 
 ## 🛠️ My Tech Stack
 
